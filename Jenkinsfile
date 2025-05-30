@@ -1,4 +1,4 @@
-/ Déclaration du pipeline Jenkins
+// Déclaration du pipeline Jenkins
 pipeline {
     // Exécute le pipeline sur n'importe quel agent
     agent any
